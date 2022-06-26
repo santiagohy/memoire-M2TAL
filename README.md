@@ -1,4 +1,4 @@
-# Mémoire M2-TAL - Santiago Herrera
+# Mémoire M2-TAL
 
 This repository contains some scripts used to extract the significant patterns analyzed in the mémoire. In addition, the complete results have been added. In the "treebanks" directory, there is a corpus to test the scripts.
 
