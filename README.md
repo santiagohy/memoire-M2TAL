@@ -1,2 +1,2 @@
-# Mémoire M2TAL - Santiago Herrera
+# Mémoire M2-TAL - Santiago Herrera
 
