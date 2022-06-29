@@ -14,7 +14,7 @@ def concat_patterns(*pattern : str) -> str:
 grew.init()
 
 # Variables
-conll = "fr_gsd-sud.conllu"
+conll = "../treebanks/fr_gsd-sud.conllu"
 corpora = "corpora-gsd"
 name = "sujet_inv"
 
